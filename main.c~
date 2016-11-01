@@ -2,6 +2,7 @@
 #include"sum.h"
 #include"average.h"
 
+
 int main() {
 	int payments[5], i;
 
