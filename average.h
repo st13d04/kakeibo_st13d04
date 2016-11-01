@@ -1,4 +1,4 @@
-#pragma one
+#pragma onece
 
 int average(int payments[]);
 
